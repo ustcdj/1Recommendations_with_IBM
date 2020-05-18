@@ -30,6 +30,6 @@ In the Project Workspace, you'll find a data set containing real messages that w
 * `Recommendations_with_IBM.ipynb` - the project notebook
 * `Recommendations_with_IBM.html` - the project notebook in html
 
-## 6. Acknowledgements
+## 3. Acknowledgements
 
 Special thanks to IBM Watson Studio for providing the dataset and to Udacity for creating this project.
